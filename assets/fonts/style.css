@@ -1,0 +1,10 @@
+@font-face {
+   font-family: 'rounded-mplus-1c-medium';
+   font-display: swap;
+   src: url('rounded-mplus-1c-medium/font.ttf');
+}
+@font-face {
+   font-family: 'rounded-mplus-1c-heavy';
+   font-display: swap;
+   src: url('rounded-mplus-1c-heavy/font.ttf');
+}
